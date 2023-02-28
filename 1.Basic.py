@@ -9,6 +9,8 @@ print(5//2) #Integer
 
 #Power
 print(2**3)
+print(3**3)
+
 
 #Raw string
 print('c:\docs\nDevanshu')
